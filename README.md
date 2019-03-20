@@ -18,3 +18,5 @@ docker build -t rancher-cli .
 ```bash
 docker run --rm rancher-cli -h
 ```
+
+> Using [rancher cli](https://rancher.com/docs/rancher/v2.x/en/cli/)
