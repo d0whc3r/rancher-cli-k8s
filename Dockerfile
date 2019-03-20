@@ -6,3 +6,5 @@ RUN curl -L https://storage.googleapis.com/kubernetes-release/release/$(curl -s 
 FROM rancher/cli:v2.0.4
 
 COPY --from=kubectl /usr/local/bin/kubectl /usr/local/bin/kubectl
+
+ENTRYPOINT []
