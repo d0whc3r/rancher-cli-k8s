@@ -1,4 +1,9 @@
 # Rancher v2 cli + kubectl
+
+[![](https://img.shields.io/docker/cloud/build/d0whc3r/rancher-cli.svg)](https://hub.docker.com/r/d0whc3r/rancher-cli)
+[![](https://images.microbadger.com/badges/version/d0whc3r/rancher-cli.svg)](https://hub.docker.com/r/d0whc3r/rancher-cli)
+[![](https://images.microbadger.com/badges/image/d0whc3r/rancher-cli.svg)](https://hub.docker.com/r/d0whc3r/rancher-cli)
+
 Docker image for rancher cli v2 including kubectl
 
 ## Use image
